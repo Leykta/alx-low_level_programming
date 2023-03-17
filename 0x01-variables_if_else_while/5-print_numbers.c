@@ -1,16 +1,16 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Use `putchar` to print all letters but the letter 'q' and 'e'.
+ * Description: Use `printf` to print all one digit numebrs starting from 0.
  * Return: 0
  */
 int main(void)
 {
 	int i;
 
-	for (i=0; i<=9'; i++)
+	for (i=0; i<10'; i++)
 	{
-		printf("%i", i);
+	printf("%i", i);
 		c++;
 	}
 	putchar('\n');
