@@ -1,0 +1,12 @@
+Task 0: 0-strcat.c	char *_strcat(char *dest, char *src);
+Task 1: 1-strncat.c	char *_strncat(char *dest, char *src, int n);
+Task 2: 2-strncpy.c	char *_strncpy(char *dest, char *src, int n);
+Task 3: 3-strcmp.c	int _strcmp(char *s1, char *s2);
+Task 4: 4-rev_array.c	void reverse_array(int *a, int n);
+Task 5: 5-string_toupper.c	char *string_toupper(char *);
+Task 6: 6-cap_string.c	char *cap_string(char *);
+Task 7: 7-leet.c	char *leet(char *);
+Task 8: 8-rot13.c	char *rot13(char *);
+Task 9: 100-print_number.c	void print_number(int n);
+Task 10: 102-infinite_add.c	char *infinite_add(char *n1, char *n2, char *r, int size_r);
+Task 11: 103-print_buffer.c	void print_buffer(char *b, int size);
