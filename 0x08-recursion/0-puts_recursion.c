@@ -2,7 +2,9 @@
 
 /**
  * 0-puts_recuresion - prints a string followed by new line
- * @s - string parameter
+ * @s - string
+ *
+ * Description: prints a string followed by new line
  * Return - nothing
  */
 
