@@ -3,7 +3,6 @@
 /**
  * factorial - returns the factorial of a number.
  * @n - integer pararmeter
- *
  * return - factorial.
  */
 
@@ -14,5 +13,5 @@ int factorial(int n)
 	else if (n < 0)
 		return (-1);
 	else
-		return (n * factorial(n-1));
+		return (n * factorial(n - 1));
 }
